@@ -8,7 +8,6 @@
 
 <center>
  
-[![Email](https://img.shields.io/badge/-EMAIL-719FB0?style=for-the-badge&logo=gmail&logoColor=white)](mailto:debashish8280@gmail.com?subject=[GitHub])
 [![Github](https://img.shields.io/badge/github-689683.svg?style=for-the-badge&logo=github)](https://www.github.com/coder-ashish)
 [![Instagram](https://img.shields.io/badge/instagram-d18eb3.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/merciless_ashish)
 [![Discord](https://img.shields.io/badge/discord-726A95.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/Merciless_Ashish#7660)
