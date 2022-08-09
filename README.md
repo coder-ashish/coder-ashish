@@ -1,10 +1,13 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="4%"> this is Debashish Jena pursuing Computer Science Engineering From SRM
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coder-ashish" alt="coder-ashish" /></a> </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=coder-ashish&&show_icons=true&title_color=2D93AD&icon_color=DBD56E&text_color=88AB75&bg_color=0a0c10" img align="left"> 
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder-ashish&show_icons=true&title_color=2D93AD&icon_color=DBD56E&text_color=88AB75&bg_color=0a0c10">
+
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=coder-ashish&show_icons=true&locale=en" alt="coder-ashish" /></p><br><p>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder-ashish&show_icons=true&title_color=2D93AD&icon_color=DBD56E&text_color=88AB75&bg_color=0a0c10"> 
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coder-ashish&" alt="coder-ashish" /></p>
+
  <img src="https://c.tenor.com/8Lv-6pAI694AAAAi/colin-computer-rage.gif" img align="right" width=35% height=50% >
 
- 
  
 
 <center>
