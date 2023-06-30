@@ -13,7 +13,7 @@
 <center>
  
 [![Github](https://img.shields.io/badge/github-%23575757.svg?style=for-the-badge&logo=github)](https://www.github.com/coder-ashish)
-[![Instagram](https://img.shields.io/badge/instagram-864879.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/merciless_ashish)
+[![Instagram](https://img.shields.io/badge/instagram-864879.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/debashishjena_)
 [![Twitter](https://img.shields.io/badge/twitter-0078d7.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Merciless_Ashis)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-4298B8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debashish-jena-94647016b/)
 
